@@ -1,11 +1,19 @@
+#!/usr/bin/env python
+
 from utilities import Equation
 
-while True:
-    eq = Equation(input('Inform an equation -> '))
 
-    print(f'{eq.equation} = {eq.result}')
+def main():
+    while True:
+        eq = Equation(input('Inform an equation -> '))
 
-    user = input('\nWish to calculate another equation?[y/n] ')
+        print(f'{eq.equation} = {eq.result}')
 
-    if user in 'Nn':
-        break
+        user = input('\nWish to calculate another equation?[y/n] ')
+
+        if user in 'Nn':
+            break
+
+
+if __name__ == '__main__':
+    main()

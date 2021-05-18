@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 def operation(n1, n2, op):
     """
     Takes two numbers and an operator, and performs the correct mathematical
