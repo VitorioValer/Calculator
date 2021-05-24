@@ -43,7 +43,7 @@
         <img src=".Screenshots/ex10.png">
     </p>
 </div>
-<div style="text-align: center;">
+<div align="center">
     <h4>Version & Tech</h4>
     <hr>
     <img src="https://img.shields.io/badge/version-v%201.02-blueviolet"></br>
