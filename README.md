@@ -37,7 +37,7 @@
     <p>
         Or they can be performed together in an equation </br>
         <img src="/home/valer/V/Projects/Python/Calculator/.Screenshots/ex8.png"></br>
-        It also supports parenthesis and will follow the correct order of precedence
+        It also supports parenthesis and will follow the correct order of precedence</br>
         <img src="/home/valer/V/Projects/Python/Calculator/.Screenshots/ex9.png"></br>
         The Calculator automatically formats the equation removing any unnecessary spaces</br>
         <img src="/home/valer/V/Projects/Python/Calculator/.Screenshots/ex10.png">
@@ -47,8 +47,8 @@
     <h4>Version & Tech</h4>
     <hr>
     <img src="https://img.shields.io/badge/version-v%201.02-blueviolet"></br>
-    <a href="https://www.python.org/downloads/release/python-385/">
-        <img src="https://img.shields.io/badge/Python 3.8-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <a href="https://www.python.org/downloads/">
+        <img src="https://img.shields.io/badge/Python 3-3776AB?style=for-the-badge&logo=python&logoColor=white">
     </a>
 </div>
 <div align="center">
