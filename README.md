@@ -19,28 +19,28 @@
     <hr>
     <p>
         To run the calculator, inside the Calculator directory use python to execute 'main.py'</br>
-        <img src="/home/valer/V/Projects/Python/Calculator/.Screenshots/ex0.png"> </br>
+        <img src=".Screenshots/ex0.png"> </br>
     </p>
     <p>
         The program  will ask for an equation and will wait until the key 'enter' is pressed </br>
-        <img src="/home/valer/V/Projects/Python/Calculator/.Screenshots/ex00.png">
+        <img src=".Screenshots/ex00.png">
     </p>
     <p>
         Any of the operations can be preformed individually </br>
-        <img src="/home/valer/V/Projects/Python/Calculator/.Screenshots/ex1.png">
-        <img src="/home/valer/V/Projects/Python/Calculator/.Screenshots/ex2.png"></br>
-        <img src="/home/valer/V/Projects/Python/Calculator/.Screenshots/ex3.png">
-        <img src="/home/valer/V/Projects/Python/Calculator/.Screenshots/ex4.png"></br>
-        <img src="/home/valer/V/Projects/Python/Calculator/.Screenshots/ex6.png">
-        <img src="/home/valer/V/Projects/Python/Calculator/.Screenshots/ex7.png">
+        <img src=".Screenshots/ex1.png">
+        <img src=".Screenshots/ex2.png"></br>
+        <img src=".Screenshots/ex3.png">
+        <img src=".Screenshots/ex4.png"></br>
+        <img src=".Screenshots/ex6.png">
+        <img src=".Screenshots/ex7.png">
     </p>
     <p>
         Or they can be performed together in an equation </br>
-        <img src="/home/valer/V/Projects/Python/Calculator/.Screenshots/ex8.png"></br>
+        <img src=".Screenshots/ex8.png"></br>
         It also supports parenthesis and will follow the correct order of precedence</br>
-        <img src="/home/valer/V/Projects/Python/Calculator/.Screenshots/ex9.png"></br>
+        <img src=".Screenshots/ex9.png"></br>
         The Calculator automatically formats the equation removing any unnecessary spaces</br>
-        <img src="/home/valer/V/Projects/Python/Calculator/.Screenshots/ex10.png">
+        <img src=".Screenshots/ex10.png">
     </p>
 </div>
 <div style="text-align: center;">
